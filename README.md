@@ -1,6 +1,6 @@
 # MAVIGA 2K24 | Sisyphus Theater Festival Stage               
 
-<img alt="alt_text"  src="https://i.imgur.com/swmiYnq.gif" />
+<img alt="alt_text"  src="https://i.imgur.com/swmiYnq" />
 
 [Github](https://github.com/MAVIGA2K24) | [CFX](https://forum.cfx.re/u/maviga2k24) | [YouTube](https://www.youtube.com/channel/UCR3MP8cMhS932P70I48AjsA)
 
