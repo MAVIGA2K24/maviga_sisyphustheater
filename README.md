@@ -12,3 +12,5 @@ Feedback and suggestions are always welcome. Feel free to contact me via direct 
 
 Script Recommendation:
 For those interested in enhancing their setup, I recommend checking out "FiveM Hall" by "Critical Scripts." It's a great tool to elevate your project even further. Check out the video here: [https://www.youtube.com/watch?v=eZtYWaDabuY](https://www.youtube.com/watch?v=eZtYWaDabuY)
+
+If you would like to support me voluntarily, you can do so via PayPalMe. | [PayPal](https://www.paypal.com/paypalme/gordon1289)
