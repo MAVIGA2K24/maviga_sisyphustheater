@@ -2,7 +2,7 @@
 
 <img alt="alt_text"  src="https://i.imgur.com/9omPYXk.png" />
 
-[Github](https://github.com/MAVIGA2K24) | [CFX](https://forum.cfx.re/u/maviga2k24) | [YouTube](https://www.youtube.com/channel/UCR3MP8cMhS932P70I48AjsA)
+[Github](https://github.com/MAVIGA2K24) | [CFX](https://forum.cfx.re/u/nougaris)
 
 Hey everyone,
 
@@ -13,4 +13,3 @@ Feedback and suggestions are always welcome. Feel free to contact me via direct 
 Script Recommendation:
 For those interested in enhancing their setup, I recommend checking out "FiveM Hall" by "Critical Scripts." It's a great tool to elevate your project even further. Check out the video here: [https://www.youtube.com/watch?v=eZtYWaDabuY](https://www.youtube.com/watch?v=eZtYWaDabuY)
 
-If you would like to support me voluntarily, you can do so via PayPalMe. | [PayPal](https://www.paypal.com/paypalme/gordon1289)
